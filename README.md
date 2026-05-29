@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Agentic%20AI%20%7C%20LLMs%20%7C%20GraphRAG&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
----
-
 ## 🧠 About Me
 
 <p align="center">
@@ -13,9 +11,7 @@ I build production-grade AI systems focused on LLMs, agentic workflows, GraphRAG
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
----
 
-## 🧩 Core Focus
 
 <p align="center">
 🤖 Agentic AI Systems &nbsp; | &nbsp; 📚 GraphRAG / RAG Systems &nbsp; | &nbsp; ⚡ LLM Orchestration
@@ -25,9 +21,7 @@ I build production-grade AI systems focused on LLMs, agentic workflows, GraphRAG
 ☁️ LLMOps / MLOps &nbsp; | &nbsp; 🔍 Hybrid Retrieval &nbsp; | &nbsp; 🧠 Reasoning Systems
 </p>
 
----
 
-## 🛠 Tech Stack
 <p align="center">
   <img src="https://cdn.simpleicons.org/huggingface" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
@@ -49,4 +43,4 @@ I build production-grade AI systems focused on LLMs, agentic workflows, GraphRAG
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/>
   
 </p>
----
+
