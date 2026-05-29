@@ -7,12 +7,6 @@
 <p align="center">
 I build production-grade AI systems focused on LLMs, agentic workflows, GraphRAG, and scalable retrieval architectures.
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
 <p align="center">
 🤖 Agentic AI Systems &nbsp; | &nbsp; 📚 GraphRAG / RAG Systems &nbsp; | &nbsp; ⚡ LLM Orchestration
 </p>
@@ -20,6 +14,12 @@ I build production-grade AI systems focused on LLMs, agentic workflows, GraphRAG
 <p align="center">
 ☁️ LLMOps / MLOps &nbsp; | &nbsp; 🔍 Hybrid Retrieval &nbsp; | &nbsp; 🧠 Reasoning Systems
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+
 
 
 <p align="center">
