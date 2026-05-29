@@ -19,9 +19,6 @@ I build production-grade AI systems focused on LLMs, agentic workflows, GraphRAG
 </p>
 
 
-
-
-
 <p align="center">
   <img src="https://cdn.simpleicons.org/huggingface" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
