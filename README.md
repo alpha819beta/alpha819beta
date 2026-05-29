@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Agentic%20AI%20%7C%20LLMs%20%7C%20GraphRAG&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hey 👋, I'm Alpha819Beta</h1>
-
-<h3 align="center">AI/ML Engineer focused on building production LLM systems, agent-based architectures, and advanced retrieval pipelines.
-Experienced in designing GraphRAG, hybrid search, and scalable AI infrastructure across cloud environments.
-I specialize in turning complex AI research into reliable, production-ready systems.</h3>
-
 ---
 
 ## 🧠 About Me
@@ -33,49 +27,28 @@ I build production-grade AI systems focused on LLMs, agentic workflows, GraphRAG
 
 ---
 
-## 🛠 Tech Stack (Icons Only)
-
-### 🤖 AI / LLM / ML
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://cdn.simpleicons.org/huggingface" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42"/>
-</p>
-
----
-
-### 📚 RAG / Graph / Search
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/>
-</p>
-
----
-
-### ☁️ Cloud / LLMOps / MLOps
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="42"/>
-</p>
-
----
-
-### ⚡ Tools / Infra
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/>
+  
 </p>
-
-
 ---
 
 
