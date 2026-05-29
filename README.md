@@ -50,21 +50,3 @@ I build production-grade AI systems focused on LLMs, agentic workflows, GraphRAG
   
 </p>
 ---
-
-
-## ⚙️ What I Focus On
-
-- 🧠 Agentic AI systems with tool use + reasoning loops  
-- 📚 GraphRAG + hybrid retrieval architectures  
-- ⚡ Low-latency LLM inference pipelines  
-- ☁️ Scalable AI platforms on cloud infrastructure  
-- 🔍 Production-grade retrieval systems  
-
----
-
-## ✨ Philosophy
-
-<p align="center">
-<b>“Build systems that think, retrieve, reason, and act.”</b>
-</p>
-
